@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/Hostel Mangaement System.jar"/>
+	<classpathentry kind="lib" path="dist/lib/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swing-worker-1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
